@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-name: Waka Readme
+name: waka
 on:
   schedule:
     # Runs at 12am IST
