@@ -1,6 +1,5 @@
 <!--START_SECTION:waka-->
 name: Waka Readme
-
 on:
   schedule:
     # Runs at 12am IST
@@ -16,3 +15,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
+sers
