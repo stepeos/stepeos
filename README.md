@@ -20,10 +20,6 @@ Windows                  1 hr 36 mins        ███████████�
 
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/stepeos/stepeos/main/charts/bar_graph.png) 
-
-
- Last Updated on 26/04/2022 18:52:22 UTC
+ Last Updated on 26/04/2022 19:46:37 UTC
 <!--END_SECTION:waka-->
