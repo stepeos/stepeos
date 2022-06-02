@@ -1,6 +1,6 @@
 sers
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2019%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,5 +21,5 @@ Linux                    53 mins             ████░░░░░░░�
 ```
 
 
- Last Updated on 01/06/2022 18:53:13 UTC
+ Last Updated on 02/06/2022 18:49:50 UTC
 <!--END_SECTION:waka-->
