@@ -6,16 +6,16 @@ sers
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 10/06/2022 18:49:22 UTC
+ Last Updated on 11/06/2022 18:45:29 UTC
 <!--END_SECTION:waka-->
