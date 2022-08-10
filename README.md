@@ -1,6 +1,6 @@
 sers
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,5 +17,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2022 18:47:29 UTC
+ Last Updated on 10/08/2022 18:49:58 UTC
 <!--END_SECTION:waka-->
