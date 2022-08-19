@@ -6,16 +6,17 @@ sers
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 hrs 30 mins       █████████████████████████   99.97% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/08/2022 18:49:12 UTC
+ Last Updated on 19/08/2022 18:53:03 UTC
 <!--END_SECTION:waka-->
