@@ -6,16 +6,16 @@ HI!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   52 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    52 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/09/2022 18:52:24 UTC
+ Last Updated on 19/09/2022 18:56:34 UTC
 <!--END_SECTION:waka-->
