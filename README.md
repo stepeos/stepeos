@@ -6,16 +6,16 @@ HI, I'm Steve!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      14 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/11/2022 18:46:08 UTC
+ Last Updated on 20/11/2022 18:45:20 UTC
 <!--END_SECTION:waka-->
