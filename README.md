@@ -1,4 +1,4 @@
-HI, I'm Steve!
+HI, welcome to my profile!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2021%20mins-blue)
 
