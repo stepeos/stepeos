@@ -1,6 +1,6 @@
 HI, welcome to my profile!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2047%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,5 +20,5 @@ Linux                    15 hrs 48 mins      ███████████�
 ```
 
 
- Last Updated on 05/11/2023 18:37:39 UTC
+ Last Updated on 06/11/2023 18:38:30 UTC
 <!--END_SECTION:waka-->
