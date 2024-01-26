@@ -6,15 +6,17 @@ HI, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      9 mins              █████████████████░░░░░░░░   67.45 % 
+OpenEdge ABL             2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+BibTeX                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/01/2024 18:40:14 UTC
+ Last Updated on 26/01/2024 18:37:47 UTC
 <!--END_SECTION:waka-->
