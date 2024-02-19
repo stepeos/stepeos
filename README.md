@@ -6,16 +6,15 @@ HI, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 43 mins        █████████████████████████   99.71 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/02/2024 18:37:46 UTC
+ Last Updated on 19/02/2024 18:37:41 UTC
 <!--END_SECTION:waka-->
