@@ -1,5 +1,7 @@
 HI, welcome to my profile!
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2057%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -18,5 +20,5 @@ Linux                    2 hrs 43 mins       ███████████�
 ```
 
 
- Last Updated on 11/04/2024 18:37:45 UTC
+ Last Updated on 12/04/2024 18:37:41 UTC
 <!--END_SECTION:waka-->
