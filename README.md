@@ -6,15 +6,16 @@ HI, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     10 mins             ███████████████████░░░░░░   77.67 % 
+Python                   3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2024 18:39:50 UTC
+ Last Updated on 07/06/2024 18:40:39 UTC
 <!--END_SECTION:waka-->
