@@ -6,15 +6,16 @@ HI, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     3 hrs 11 mins       █████████████████████████   99.74 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/09/2024 18:43:40 UTC
+ Last Updated on 18/09/2024 18:43:36 UTC
 <!--END_SECTION:waka-->
