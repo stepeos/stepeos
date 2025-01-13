@@ -11,16 +11,15 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   98.74 % 
-Cap'n Proto              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/01/2025 18:42:00 UTC
+ Last Updated on 13/01/2025 18:46:21 UTC
 <!--END_SECTION:waka-->
