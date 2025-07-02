@@ -5,21 +5,23 @@ Hi, welcome to my profile!
 * modified openvpn install/management script for multi-server setup [stepeos/openvpn-multiple-instance-install](https://github.com/stepeos/openvpn-multiple-instance-install)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2024%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 48 mins       ███████████████████████░░   92.71 % 
-TeX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   4 hrs 37 mins       ███████████████████████░░   92.44 % 
+TeX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/07/2025 18:50:28 UTC
+ Last Updated on 02/07/2025 18:51:31 UTC
 <!--END_SECTION:waka-->
