@@ -5,8 +5,6 @@ Hi, welcome to my profile!
 * modified openvpn install/management script for multi-server setup [stepeos/openvpn-multiple-instance-install](https://github.com/stepeos/openvpn-multiple-instance-install)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C189%20hrs%2010%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -25,5 +23,5 @@ Linux                    9 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 14/10/2025 18:48:31 UTC
+ Last Updated on 15/10/2025 18:49:18 UTC
 <!--END_SECTION:waka-->
