@@ -11,15 +11,15 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/01/2026 18:56:48 UTC
+ Last Updated on 13/01/2026 18:55:21 UTC
 <!--END_SECTION:waka-->
