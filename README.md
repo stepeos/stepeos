@@ -11,15 +11,15 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/01/2026 18:55:21 UTC
+ Last Updated on 14/01/2026 18:57:03 UTC
 <!--END_SECTION:waka-->
