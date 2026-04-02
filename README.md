@@ -11,19 +11,19 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
-C++                      6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
-TypeScript               5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+C++                      5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+TypeScript               4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
+Python                   2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  13 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      13 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 19:37:42 UTC
+ Last Updated on 02/04/2026 19:29:29 UTC
 <!--END_SECTION:waka-->
