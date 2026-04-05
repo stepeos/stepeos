@@ -11,19 +11,18 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 3 mins        ████████████████░░░░░░░░░   63.01 % 
-TypeScript               2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.51 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+C++                      3 hrs 30 mins       ███████████████████████░░   91.19 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 19:08:27 UTC
+ Last Updated on 05/04/2026 19:10:34 UTC
 <!--END_SECTION:waka-->
