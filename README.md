@@ -5,26 +5,26 @@ Hi, welcome to my profile!
 * modified openvpn install/management script for multi-server setup [stepeos/openvpn-multiple-instance-install](https://github.com/stepeos/openvpn-multiple-instance-install)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 39 mins      ███████████████░░░░░░░░░░   59.11 % 
-C++                      3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-TypeScript               3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Python                   22 hrs 13 mins      ████████████████░░░░░░░░░   64.77 % 
+C++                      4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+TypeScript               3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Markdown                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 28 mins      ██████████████░░░░░░░░░░░   54.92 % 
-Mac                      12 hrs 42 mins      ███████████░░░░░░░░░░░░░░   45.08 % 
+Linux                    20 hrs 17 mins      ███████████████░░░░░░░░░░   59.12 % 
+Mac                      14 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.88 % 
 ```
 
 
- Last Updated on 11/04/2026 19:11:17 UTC
+ Last Updated on 12/04/2026 19:22:26 UTC
 <!--END_SECTION:waka-->
