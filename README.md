@@ -11,20 +11,15 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 54 mins       ███████████████████░░░░░░   77.75 % 
-Kotlin                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Cap'n Proto              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 55 mins       ████████████████░░░░░░░░░   62.01 % 
-Mac                      2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/04/2026 19:27:16 UTC
+ Last Updated on 26/04/2026 19:28:51 UTC
 <!--END_SECTION:waka-->
