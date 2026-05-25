@@ -7,19 +7,6 @@ Hi, welcome to my profile!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C512%20hrs%2054%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 24/05/2026 19:46:23 UTC
+ Last Updated on 25/05/2026 20:09:56 UTC
 <!--END_SECTION:waka-->
