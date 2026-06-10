@@ -11,18 +11,15 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 39 mins        ███████████████████░░░░░░   77.48 % 
-JSON                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/06/2026 20:28:34 UTC
+ Last Updated on 10/06/2026 21:07:25 UTC
 <!--END_SECTION:waka-->
