@@ -11,16 +11,16 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              ███████████████████░░░░░░   74.77 % 
-C++                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+C++                      1 min               ██████████████░░░░░░░░░░░   56.55 % 
+Python                   1 min               ███████████░░░░░░░░░░░░░░   43.45 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/07/2026 20:03:22 UTC
+ Last Updated on 03/07/2026 19:58:10 UTC
 <!--END_SECTION:waka-->
