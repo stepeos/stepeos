@@ -11,20 +11,20 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 30 mins       ████████████████████████░   94.70 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Cap'n Proto              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   9 hrs 56 mins       ████████████████████████░   96.21 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Cap'n Proto              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 45 mins       ███████████████░░░░░░░░░░   60.07 % 
-Linux                    3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.93 % 
+Linux                    10 hrs 14 mins      █████████████████████████   99.13 % 
+Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
- Last Updated on 12/07/2026 19:40:25 UTC
+ Last Updated on 13/07/2026 19:59:21 UTC
 <!--END_SECTION:waka-->
