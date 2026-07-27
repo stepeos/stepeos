@@ -5,26 +5,32 @@ Hi, welcome to my profile!
 * modified openvpn install/management script for multi-server setup [stepeos/openvpn-multiple-instance-install](https://github.com/stepeos/openvpn-multiple-instance-install)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C568%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C561%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   20 hrs 19 mins      ████████████████████████░   96.93 % 
-C++                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Cap'n Proto              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   18 hrs 58 mins      █████████████████░░░░░░░░   66.03 % 
+C++                      6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+CMake                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 33 mins      █████████████████████░░░░   83.72 % 
-Linux                    3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Mac                      21 hrs 34 mins      ███████████████████░░░░░░   75.06 % 
+Linux                    7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/07/2026 19:44:17 UTC
+ Last Updated on 27/07/2026 20:05:03 UTC
 <!--END_SECTION:waka-->
