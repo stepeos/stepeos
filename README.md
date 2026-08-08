@@ -13,44 +13,44 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Rust                     8 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-C++                      6 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Python                   4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Slang                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Rust                     10 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+Python                   3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Markdown                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+C++                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Dart                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 32 mins      ██████████████████████░░░   86.02 % 
-VS Code                  3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Claude Code              22 hrs 43 mins      ██████████████████████░░░   88.64 % 
+VS Code                  2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 
 💻 Operating System: 
-Mac                      27 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 29 mins (93.17%)
+⏱ AI Coding Time: 24 hrs 21 mins (95.03%)
 
-✍️ 27,503 lines written by AI, 980 lines written by hand (96.56% AI-written)
+✍️ 23,918 lines written by AI, 196 lines written by hand (99.19% AI-written)
 
-🔤 1,509,964,043 Input Tokens, 3,038,892 Output Tokens
+🔤 1,089,871,582 Input Tokens, 2,749,199 Output Tokens
 
-💵 $4886.05 Estimated AI Cost This Week
+💵 $4265.16 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 146 AI Prompts
+🧠 13 AI Sessions, 140 AI Prompts
 
-Sonnet                   27,506 lines        ████████████████████████░   97.32 % 
-Opus                     758 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Sonnet                   21,618 lines        █████████████████████░░░░   84.54 % 
+Opus                     3,953 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.56% of written lines came from AI
-📚 Verbose Prompter — average 2,199 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.71% of changed lines were hand-edited
+🤖 AI-Driven — 99.19% of written lines came from AI
+📚 Verbose Prompter — average 2,307 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 19:31:17 UTC
+ Last Updated on 08/08/2026 19:07:57 UTC
 <!--END_SECTION:waka-->
