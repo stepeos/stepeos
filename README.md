@@ -13,42 +13,25 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-C++                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Markdown                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-TeX                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Objective-C++            38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+TeX                      30 mins             █████████████████░░░░░░░░   69.74 % 
+Python                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 11 mins       ████████████████████░░░░░   78.27 % 
-VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (78.27%)
-
-✍️ 837 lines written by AI, 387 lines written by hand (68.38% AI-written)
-
-🔤 1,094,360 Input Tokens, 389,399 Output Tokens
-
-💵 $69.47 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 33 AI Prompts
-
-Opus                     963 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 68.38% of written lines came from AI
-📚 Verbose Prompter — average 1,663 characters per prompt
-🔁 Iterative Prompter — average 33 prompts per session
-🚀 High AI Trust — 30.01% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 21:57:47 UTC
+ Last Updated on 15/09/2026 21:40:02 UTC
 <!--END_SECTION:waka-->
