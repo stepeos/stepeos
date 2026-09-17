@@ -13,17 +13,17 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-TeX                      30 mins             █████████████████░░░░░░░░   69.74 % 
-Python                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python                   11 mins             █████████████████████░░░░   83.86 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -33,5 +33,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2026 21:35:05 UTC
+ Last Updated on 17/09/2026 21:37:55 UTC
 <!--END_SECTION:waka-->
