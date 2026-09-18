@@ -13,25 +13,38 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████░░░░   83.86 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Markdown                 12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+Claude Code              10 mins             ████████████████████░░░░░   79.06 % 
+VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (100.0%)
+
+✍️ 79 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 36,605 Input Tokens, 3,860 Output Tokens
+
+💵 $0.36 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Opus                     129 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 266 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 21:37:55 UTC
+ Last Updated on 18/09/2026 21:08:58 UTC
 <!--END_SECTION:waka-->
