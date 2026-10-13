@@ -13,41 +13,40 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   21 mins             ████████████████████████░   94.92 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Python                   7 mins              ████████████████████████░   96.76 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Claude Code              13 mins             ███████████████░░░░░░░░░░   61.94 % 
-VS Code                  8 mins              ██████████░░░░░░░░░░░░░░░   38.06 % 
+Claude Code              6 mins              ██████████████████████░░░   87.76 % 
+VS Code                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (65.98%)
+⏱ AI Coding Time: 7 mins (100.0%)
 
-✍️ 2,998 lines written by AI, 6 lines written by hand (99.8% AI-written)
+✍️ 1,691 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 564,623 Input Tokens, 66,281 Output Tokens
+🔤 305,798 Input Tokens, 31,917 Output Tokens
 
-💵 $10.42 Estimated AI Cost This Week
+💵 $6.13 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Opus                     3,008 lines         █████████████████████████   100.00 % 
+Opus                     1,691 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 8 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 00:55:03 UTC
+ Last Updated on 13/10/2026 23:01:19 UTC
 <!--END_SECTION:waka-->
