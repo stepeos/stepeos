@@ -5,7 +5,7 @@ Hi, welcome to my profile!
 * modified openvpn install/management script for multi-server setup [stepeos/openvpn-multiple-instance-install](https://github.com/stepeos/openvpn-multiple-instance-install)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C684%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C684%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
 
@@ -13,40 +13,40 @@ Hi, welcome to my profile!
 
 ```text
 💬 Programming Languages: 
-Python                   7 mins              ████████████████████████░   96.76 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Python                   25 mins             ████████████████████░░░░░   81.74 % 
+Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 
 🔥 Editors: 
-Claude Code              6 mins              ██████████████████████░░░   87.76 % 
-VS Code                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+VS Code                  25 mins             ████████████████████░░░░░   79.30 % 
+Claude Code              6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (100.0%)
+⏱ AI Coding Time: 7 mins (23.58%)
 
-✍️ 1,691 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,691 lines written by AI, 25 lines written by hand (98.54% AI-written)
 
-🔤 305,798 Input Tokens, 31,917 Output Tokens
+🔤 306,278 Input Tokens, 33,059 Output Tokens
 
-💵 $6.13 Estimated AI Cost This Week
+💵 $6.31 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 Opus                     1,691 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 8 characters per prompt
+🤖 AI-Driven — 98.54% of written lines came from AI
+📝 Concise Prompter — average 18 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 2.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 23:01:19 UTC
+ Last Updated on 14/10/2026 21:53:06 UTC
 <!--END_SECTION:waka-->
