@@ -5,51 +5,51 @@ Hi, welcome to my profile!
 * modified openvpn install/management script for multi-server setup [stepeos/openvpn-multiple-instance-install](https://github.com/stepeos/openvpn-multiple-instance-install)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C696%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C699%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.14 % 
-TypeScript               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-JavaScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Python                   4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.12 % 
+TypeScript               4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 36 mins       ███████████████████░░░░░░   76.91 % 
-VS Code                  2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Claude Code              11 hrs 5 mins       ████████████████████░░░░░   81.95 % 
+VS Code                  2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 
 💻 Operating System: 
-Mac                      9 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 53 mins (79.8%)
+⏱ AI Coding Time: 11 hrs 23 mins (84.18%)
 
-✍️ 13,180 lines written by AI, 562 lines written by hand (95.91% AI-written)
+✍️ 21,297 lines written by AI, 582 lines written by hand (97.34% AI-written)
 
-🔤 6,589,099 Input Tokens, 931,097 Output Tokens
+🔤 10,221,549 Input Tokens, 1,395,381 Output Tokens
 
-💵 $176.58 Estimated AI Cost This Week
+💵 $306.02 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 61 AI Prompts
+🧠 10 AI Sessions, 83 AI Prompts
 
-Opus                     7,279 lines         ██████████████░░░░░░░░░░░   54.62 % 
-Sonnet                   6,047 lines         ███████████░░░░░░░░░░░░░░   45.38 % 
+Opus                     12,623 lines        ███████████████░░░░░░░░░░   58.79 % 
+Sonnet                   8,848 lines         ██████████░░░░░░░░░░░░░░░   41.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.91% of written lines came from AI
-📄 Detailed Prompter — average 826 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.16% of changed lines were hand-edited
+🤖 AI-Driven — 97.34% of written lines came from AI
+📄 Detailed Prompter — average 1,289 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.73% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 21:08:06 UTC
+ Last Updated on 26/10/2026 22:49:36 UTC
 <!--END_SECTION:waka-->
